@@ -1,0 +1,73 @@
+body {
+    background-color: #ffe0f0; /* Soft pink background */
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #F5F5DC; /* Lighter pink border */
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(255, 105, 180, 0.4); /* Soft pink shadow */
+}
+
+.card a img {
+    width: 30px;
+    height: auto;
+    filter: grayscale(0%) brightness(100%); /* Ensure the LinkedIn logo is visible and vibrant */
+}
+
+.card h2 {
+    color: #ff66cc; /* Pinkish-purple for the headings */
+    font-family: 'Arial', sans-serif; /* A clean, rounded font that's still professional */
+}
+
+.half-width {
+    width: 45%; /* Slightly reduce width for a more distinct layout */
+}
+
+.circle-image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    border: 2px solid #ff99cc; /* Add a light pink border to the image */
+}
+.list-inline{
+    display: flex;
+    justify-content: space-evenly  ;
+    align-items: center;
+    font-size: 50px;  
+    width: 200px;
+     }
+#social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-rs {
+ 
+  width: 80%;
+  text-align: center;
+}
+.list-inline{
+    display: flex;
+    justify-content: space-evenly  ;
+    align-items: center;
+    font-size: 50px;  
+    width: 200px;
+     }
+#social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-rs {
+ 
+  width: 80%;
+  text-align: center;
+}
